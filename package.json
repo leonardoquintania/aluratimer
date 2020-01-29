@@ -1,0 +1,20 @@
+{
+  "name": "aluratimer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "Aplicativo criado com NODE e ELECTRON",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardoquintania/aluratimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardoquintania/aluratimer/issues"
+  },
+  "homepage": "https://github.com/leonardoquintania/aluratimer#readme"
+}
